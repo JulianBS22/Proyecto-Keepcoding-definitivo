@@ -1,0 +1,6 @@
+.env
+**__pycache__/
+config.py
+venv/
+.vscode/
+crea_tablas.sql
