@@ -28,3 +28,5 @@ Copiar el fichero .env_template, renombrarlo a .env y elegir una de las opciones
 copiar movimientos.db en la dirección: data/movimientos.db
 
 START
+para proceder con el programa, se debe activar el entorno virtual  (venv\scripts\activate) y posteriormente ejecutar flask run
+
